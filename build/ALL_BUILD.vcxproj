@@ -181,6 +181,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{1D27E066-D8B0-381E-A842-FB359CD9E3AD}</Project>
       <Name>Hoi5pp</Name>
     </ProjectReference>
+    <ProjectReference Include="E:\Hoi5 c++\build\external\glad\glad.vcxproj">
+      <Project>{5DC3B86F-61CB-318A-A955-A0ED3FA5EB24}</Project>
+      <Name>glad</Name>
+    </ProjectReference>
     <ProjectReference Include="E:\Hoi5 c++\build\external\glfw\src\glfw.vcxproj">
       <Project>{BC6E81E2-4C72-3F2D-A137-35AE6660F853}</Project>
       <Name>glfw</Name>

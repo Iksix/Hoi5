@@ -8,3 +8,6 @@ add_executable(${PORJECT_NAME} src/main.cpp)
 
 add_subdirectory(external/glfw)
 target_link_libraries(${PORJECT_NAME} glfw)
+
+add_subdirectory(external/glad)
+target_link_libraries(${PROJECT_NAME} glad)

@@ -9,3 +9,6 @@ E:/Hoi5 c++/build/external/glfw/src/CMakeFiles/glfw.dir
 E:/Hoi5 c++/build/external/glfw/src/CMakeFiles/update_mappings.dir
 E:/Hoi5 c++/build/external/glfw/src/CMakeFiles/INSTALL.dir
 E:/Hoi5 c++/build/external/glfw/docs/CMakeFiles/INSTALL.dir
+E:/Hoi5 c++/build/external/glad/CMakeFiles/glad.dir
+E:/Hoi5 c++/build/external/glad/CMakeFiles/INSTALL.dir
+E:/Hoi5 c++/build/external/glad/CMakeFiles/ALL_BUILD.dir
