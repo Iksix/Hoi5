@@ -1,0 +1,10 @@
+^E:\HOI5 C++\EXTERNAL\GLAD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/Hoi5 c++" "-BE:/Hoi5 c++/build" --check-stamp-file "E:/Hoi5 c++/build/external/glad/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

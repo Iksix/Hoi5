@@ -195,7 +195,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="E:\Hoi5 c++\build\ALL_BUILD.vcxproj">
+    <ProjectReference Include="E:\Hoi5 c++\build\external\glad\ALL_BUILD.vcxproj">
       <Project>{CC4A0D58-BE3E-312A-A269-27782D660BA5}</Project>
       <Name>ALL_BUILD</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
